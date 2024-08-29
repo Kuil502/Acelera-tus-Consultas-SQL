@@ -48,4 +48,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 css
 Copiar código
 
-Este archivo `README.md` está diseñado para ayudar a los usuarios a comprender el propósito del script, cómo utilizarlo y cómo puede be
+
+Este archivo `README.md` está diseñado para ayudar a los usuarios a comprender el propósito del script, cómo utilizarlo y cómo puede beneficiarlos.
